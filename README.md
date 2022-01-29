@@ -1,4 +1,7 @@
 # Projeto Netflix
+
+Projeto disponível em: [https://clonenetflixvrs.web.app/](https://clonenetflixvrs.web.app/)
+
 ![Screenshot do site](https://i.imgur.com/nPC8s45.png)
 
 - Este projeto é um clone da tela inicial da netflix.
